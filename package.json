@@ -1,0 +1,10 @@
+{
+  "name": "bugsnag-eg",
+  "private": true,
+
+  "dependencies": {
+    "connect-multiparty": "latest",
+    "express": "3.*",
+    "bugsnag": "latest"
+  }
+}
